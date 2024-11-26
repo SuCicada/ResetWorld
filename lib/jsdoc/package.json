@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "jsdoc": "^3.6.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "sanitize-html": "^2.3.2",
     "taffydb": "latest",
     "underscore": "latest"
